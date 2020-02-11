@@ -1,0 +1,11 @@
+C:\Users\vivek.jaiswal\source\repos\Asserttask\Asserttask\bin\Debug\netcoreapp2.1\Asserttask.deps.json
+C:\Users\vivek.jaiswal\source\repos\Asserttask\Asserttask\bin\Debug\netcoreapp2.1\Asserttask.runtimeconfig.json
+C:\Users\vivek.jaiswal\source\repos\Asserttask\Asserttask\bin\Debug\netcoreapp2.1\Asserttask.runtimeconfig.dev.json
+C:\Users\vivek.jaiswal\source\repos\Asserttask\Asserttask\bin\Debug\netcoreapp2.1\Asserttask.dll
+C:\Users\vivek.jaiswal\source\repos\Asserttask\Asserttask\bin\Debug\netcoreapp2.1\Asserttask.pdb
+C:\Users\vivek.jaiswal\source\repos\Asserttask\Asserttask\obj\Debug\netcoreapp2.1\Asserttask.csprojAssemblyReference.cache
+C:\Users\vivek.jaiswal\source\repos\Asserttask\Asserttask\obj\Debug\netcoreapp2.1\Asserttask.csproj.CoreCompileInputs.cache
+C:\Users\vivek.jaiswal\source\repos\Asserttask\Asserttask\obj\Debug\netcoreapp2.1\Asserttask.AssemblyInfoInputs.cache
+C:\Users\vivek.jaiswal\source\repos\Asserttask\Asserttask\obj\Debug\netcoreapp2.1\Asserttask.AssemblyInfo.cs
+C:\Users\vivek.jaiswal\source\repos\Asserttask\Asserttask\obj\Debug\netcoreapp2.1\Asserttask.dll
+C:\Users\vivek.jaiswal\source\repos\Asserttask\Asserttask\obj\Debug\netcoreapp2.1\Asserttask.pdb

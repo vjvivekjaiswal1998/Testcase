@@ -1,0 +1,17 @@
+C:\Users\vivek.jaiswal\source\repos\Asserttask\AsserttaskUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\vivek.jaiswal\source\repos\Asserttask\AsserttaskUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\vivek.jaiswal\source\repos\Asserttask\AsserttaskUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\vivek.jaiswal\source\repos\Asserttask\AsserttaskUnitTest\bin\Debug\netcoreapp2.1\AsserttaskUnitTest.deps.json
+C:\Users\vivek.jaiswal\source\repos\Asserttask\AsserttaskUnitTest\bin\Debug\netcoreapp2.1\AsserttaskUnitTest.runtimeconfig.json
+C:\Users\vivek.jaiswal\source\repos\Asserttask\AsserttaskUnitTest\bin\Debug\netcoreapp2.1\AsserttaskUnitTest.runtimeconfig.dev.json
+C:\Users\vivek.jaiswal\source\repos\Asserttask\AsserttaskUnitTest\bin\Debug\netcoreapp2.1\AsserttaskUnitTest.dll
+C:\Users\vivek.jaiswal\source\repos\Asserttask\AsserttaskUnitTest\bin\Debug\netcoreapp2.1\Asserttask.dll
+C:\Users\vivek.jaiswal\source\repos\Asserttask\AsserttaskUnitTest\bin\Debug\netcoreapp2.1\Asserttask.pdb
+C:\Users\vivek.jaiswal\source\repos\Asserttask\AsserttaskUnitTest\obj\Debug\netcoreapp2.1\AsserttaskUnitTest.csprojAssemblyReference.cache
+C:\Users\vivek.jaiswal\source\repos\Asserttask\AsserttaskUnitTest\obj\Debug\netcoreapp2.1\AsserttaskUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\vivek.jaiswal\source\repos\Asserttask\AsserttaskUnitTest\obj\Debug\netcoreapp2.1\AsserttaskUnitTest.AssemblyInfoInputs.cache
+C:\Users\vivek.jaiswal\source\repos\Asserttask\AsserttaskUnitTest\obj\Debug\netcoreapp2.1\AsserttaskUnitTest.AssemblyInfo.cs
+C:\Users\vivek.jaiswal\source\repos\Asserttask\AsserttaskUnitTest\obj\Debug\netcoreapp2.1\AsserttaskUnitTest.csproj.CopyComplete
+C:\Users\vivek.jaiswal\source\repos\Asserttask\AsserttaskUnitTest\bin\Debug\netcoreapp2.1\AsserttaskUnitTest.pdb
+C:\Users\vivek.jaiswal\source\repos\Asserttask\AsserttaskUnitTest\obj\Debug\netcoreapp2.1\AsserttaskUnitTest.dll
+C:\Users\vivek.jaiswal\source\repos\Asserttask\AsserttaskUnitTest\obj\Debug\netcoreapp2.1\AsserttaskUnitTest.pdb
